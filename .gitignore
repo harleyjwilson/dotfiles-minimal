@@ -1,0 +1,8 @@
+# MacOS files
+.DS_Store
+
+# Editor
+.zed/
+
+# Agent
+.pi/
